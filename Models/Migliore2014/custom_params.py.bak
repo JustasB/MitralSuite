@@ -1,0 +1,3 @@
+filename = ''
+customMitralCount = 2				# Full net 635=5*127
+customGranulesPerMitralCount = 10   # Full net 122166
