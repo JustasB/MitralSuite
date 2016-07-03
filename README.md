@@ -1,4 +1,4 @@
-# ObjectiveModelValidation
+# MitralSuite - Objective Validation of Computational Neuroscience Models
 Validation of Olfactory Bulb Mitral Cell models with data from NeuroElectro.org and using NeuronUnit framework.
 
 # Requirements
